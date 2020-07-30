@@ -14,6 +14,8 @@ Equipment:
 - Conductive Sewing Snaps
 - Non-Conductive Thread and a Needle
 
+A link to the connected prototype: https://youtu.be/GfgXmcZWOBI
+
 *To be Implemented*
 ### Software
 A DialPad code was developed using Arduino IDE in the following file.
