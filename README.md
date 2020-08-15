@@ -18,6 +18,7 @@ Equipment:
 - Non-Conductive Thread and a Needle
 
 A link to the connected prototype: https://youtu.be/GfgXmcZWOBI
+Final Product Link: https://youtu.be/nWgPQJrZL30 
 
 ### Software
 A DialPad code was developed using Arduino IDE in the following file:
